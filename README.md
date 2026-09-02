@@ -469,3 +469,21 @@ kustomize build | kubectl apply -f -
 ## License
 
 [License](LICENSE.md)
+
+## Working Application URLs
+
+### Frontend
+http://a97a140f3e41345a4bae48c309424cce-962786259.us-east-1.elb.amazonaws.com
+
+### Backend API
+http://a6b8dad0f401c43d4be1702a532c4c9f-1482853047.us-east-1.elb.amazonaws.com/movies
+
+## Project Evidence
+
+The repository includes screenshots showing:
+- Frontend Continuous Integration
+- Backend Continuous Integration
+- Frontend Continuous Deployment
+- Backend Continuous Deployment
+- Working frontend application
+- Working backend API
